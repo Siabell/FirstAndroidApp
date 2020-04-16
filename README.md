@@ -2,13 +2,13 @@
 
 ### Hello world App
 
-[![Hello world](images/helloWorld.png)]
+![Hello world](images/helloWorld.PNG)
 
 ### Simple user interface
 
-[![Text Button](images/textButton.png)]
+![Text Button](images/textButton.PNG)
 
-[![Show text](images/showTextField.png)]
+![Show text](images/showTextField.PNG)
 
 
 
